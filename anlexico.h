@@ -7,16 +7,18 @@
 /************* Definiciones ********************/
 
 //Codigos
-#define PR_INTEGER	269
-#define PR_REAL		270
-#define PR_CHAR		272
-#define WRITELN		281
-#define WRITE		282
-#define NUM			284
-#define ID			285
-#define CAR			287
-#define LITERAL		288
-#define USER_TYPE	294
+#define L_CORCHETE 	      256
+#define R_CORCHETE	      257
+#define L_LLAVE 	      258
+#define R_LLAVE 	      259
+#define COMA		      260
+#define DOS_PUNTOS	      261
+#define LITERAL_CADENA    262
+#define LITERAL_NUM	      263
+#define PR_TRUE		      264
+#define PR_FALSE	      265
+#define PR_NULL	          266
+#define EOF	              267
 // Fin Codigos
 #define TAMBUFF 	5
 #define TAMLEX 		50
