@@ -10,3 +10,6 @@ Y para ejecutar ./anlex json.txt
 
 2) Para compilar el escript del parser use el compilador GCC de linux. gcc parser.c -o parser
 Y para ejecutar ./parser json.txt
+
+3) Para compilar el escript del parser use el compilador GCC de linux. gcc traductor.c -o trad
+Y para ejecutar ./trad json.txt
